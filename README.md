@@ -64,12 +64,3 @@ rag-search-pipeline/
 ├── notebooks/
 │   └── rag_search_pipeline.ipynb
 └── README.md
-
-## What I Learned
-
-- Retrieval-Augmented Generation (RAG)
-- Embeddings and vector databases
-- Semantic and BM25 search
-- Hybrid retrieval
-- Cross-Encoder reranking
-- LLM-based answer generation
