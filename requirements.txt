@@ -1,0 +1,7 @@
+rag-search-pipeline/
+├── data/
+│   └── rag_sample.txt
+├── notebooks/
+│   └── rag_search_pipeline.ipynb
+├── README.md
+└── requirements.txt
