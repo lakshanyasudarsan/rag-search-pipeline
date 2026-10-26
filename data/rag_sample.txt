@@ -1,0 +1,44 @@
+Company: NovaRetail Analytics
+Document: 2026 Business Performance Summary
+
+1. Company Overview
+NovaRetail Analytics is a fictional retail technology company that provides data analytics tools to supermarkets and online retailers. The company focuses on sales forecasting, customer segmentation, inventory planning, and dashboard reporting.
+
+2. Revenue Performance
+In 2026, NovaRetail Analytics reported total revenue of AUD 48 million. This represented a 20% increase compared with 2025. The strongest growth came from the cloud analytics subscription business, which contributed AUD 28 million in revenue.
+
+3. Customer Growth
+The company served 320 business customers in 2026. This was an increase from 250 customers in 2025. Most new customers were medium-sized retail businesses in Australia and New Zealand.
+
+4. Product Performance
+The company's most popular product was InsightCloud, a subscription-based analytics platform. InsightCloud generated 58% of total company revenue. A second product, StockSense, helped customers predict inventory demand and reduce stockouts.
+
+5. Operational Challenges
+NovaRetail Analytics experienced three major challenges in 2026:
+- Higher cloud infrastructure costs
+- Difficulty hiring experienced data engineers
+- Increased competition from international analytics providers
+
+6. Technology Strategy
+The company plans to invest in artificial intelligence and retrieval-augmented generation systems. One planned project will allow employees to search internal financial reports, technical documents, and policy files using natural-language questions.
+
+7. RAG Project Requirements
+The planned RAG system must:
+- Read PDF, Word, and text documents
+- Split large documents into smaller chunks
+- Create embeddings for each chunk
+- Store embeddings in a vector database
+- Support semantic search
+- Support keyword search using BM25
+- Combine semantic and keyword results using hybrid search
+- Rerank retrieved documents before generating an answer
+- Return the source document with each answer
+
+8. Risk and Governance
+The company requires the AI system to protect confidential information. Access controls must ensure employees only retrieve documents they are authorised to view. The company also wants responses to be grounded in source documents to reduce hallucinations.
+
+9. Future Plans
+In 2027, NovaRetail Analytics plans to expand into Singapore and increase its AI engineering team. The company expects the internal document search project to become a key productivity tool for finance, technical support, and consulting teams.
+
+10. Summary
+NovaRetail Analytics grew strongly in 2026, with revenue increasing to AUD 48 million and customer numbers reaching 320. The company is now investing in AI, including a retrieval-augmented generation system for internal document search.
